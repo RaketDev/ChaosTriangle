@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CHaosDreieck
+namespace SommerSprossenSimulator
 {
     //prediction. das Drei Eck wird Dunkel
     public partial class count : Form
